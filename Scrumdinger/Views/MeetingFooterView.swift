@@ -1,10 +1,3 @@
-//
-//  MeetingFooterView.swift
-//  Scrumdinger
-//
-//  Created by Somnath Mandhare on 25/10/23.
-//
-
 import SwiftUI
 
 struct MeetingFooterView: View {
